@@ -1,0 +1,27 @@
+{
+  "name": "DashBot",
+  "version": "3.0.0",
+  "description": "A simple Discord Bot",
+  "main": "bot.js",
+  "author": "Mikey Richards",
+  "dependencies": {},
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "ytdl-core": "^2.1.2",
+    "opusscript": "file:opusscript",
+    "discord.js": "^11.4.2",
+    "jimp": "^0.5.3",
+    "node-bandcamp": "^0.0.6",
+    "pg": "^7.5.0",
+    "request": "^2.88.0",
+    "soundcloud-lookup": "^0.0.2",
+    "soundcloud-search-node" :"^1.0.2",
+    "trace-redirect": "^1.0.6",
+    "url": "^0.11.0",
+    "xmlhttprequest": "^1.8.0",
+    "youtube-info": "^1.2.0",
+    "youtube-search": "^1.1.3"
+  }
+}
